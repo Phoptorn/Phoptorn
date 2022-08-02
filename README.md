@@ -1,11 +1,11 @@
-### Hi there 👋
-Hello World 🌏
+### Hello World 🌏
 
 - 🔭 I’m currently working on fibomotability.
 - 🌱 I’m currently learning 'React A JavaScript library' and 'API'
 - 🤔 I’m looking for help with teach for me(newbie).
 
 <!--
+### Hi there 👋
 **Phoptorn/phoptorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

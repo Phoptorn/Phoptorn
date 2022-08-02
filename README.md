@@ -8,13 +8,13 @@
 [![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Blog&url=https%3A%2F%2Fmikkipastel.com)]
 [![Portfolio](https://img.shields.io/website?color=FF9999&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fmikkipastel.web.app)]
 
-[![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](https://www.facebook.com/mikkipastel)
-[![Twitter Badge](https://img.shields.io/badge/-@mikkipastel-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mikkipastel "Follow on Twitter")
-[![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCtGbMSe4i7NJiKQ271Fezcg)
-[![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseobingsu/)](https://medium.com/@minseomikki)
+[![Facebook Badge](https://img.shields.io/badge/-MikkiPastel-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/mikkipastel/)](#)
+[![Twitter Badge](https://img.shields.io/badge/-@mikkipastel-00acee?style=flat&logo=Twitter&logoColor=white)](#)
+[![YouTube Badge](https://img.shields.io/badge/-MikkiCoding-FF0000?style=flat&logo=YouTube&logoColor=white)](#)
+[![Medium Badge](https://img.shields.io/badge/-@minseomikki-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@minseobingsu/)](#)
 
 #### Android Project's friend with me
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)(https://play.google.com/store/apps/details?id=com.project.getpets)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://play.google.com/store/apps/details?id=com.project.getpets)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Web Development

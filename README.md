@@ -1,5 +1,7 @@
 ### Hello World 🌏
 
+![Banner](/image/github_banner.png)
+
 - 🔭 I’m currently working on fibomotability.
 - 🌱 I’m currently learning 'React A JavaScript library' and 'API'
 - 🤔 I’m looking for help with teach for me(newbie).

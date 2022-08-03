@@ -1,6 +1,6 @@
 ### Hello World 🌏
 
-![Banner](/image/github_banner.png)
+![Banner](/image/github_banner.jpg)
 
 - 🔭 I’m currently working on fibomotability.
 - 🌱 I’m currently learning 'React A JavaScript library' and 'API'

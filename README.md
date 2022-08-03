@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with teach for me(newbie).
 
 ## Hobby
-https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white
-https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 ## 📫 Social
 [![Portfolio](https://img.shields.io/website?color=FF9999&style=flat-square&up_message=Portfolio&url=https%3A%2F%2Fmikkipastel.web.app)]

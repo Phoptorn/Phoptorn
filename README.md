@@ -3,7 +3,7 @@
 ![Banner](/image/github_banner.jpg)
 
 - 🔭 I’m currently working on fibomotability.
-- 🌱 I’m currently learning 'React A JavaScript library' and 'API'
+- 🌱 I’m currently learning and practice 'React a JavaScript library' 'API' 'next.js' 'react-native' and etc
 - 🤔 I’m looking for help with teach for me(newbie).
 
 ## Hobby

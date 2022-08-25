@@ -3,7 +3,8 @@
 ![Banner](/image/github_banner.jpg)
 
 - 🔭 I’m currently working on fibomotability.
-- 🌱 I’m currently learning and practice 'React a JavaScript library' 'API' 'next.js' 'react-native' and etc
+- 🌱 I’m currently learning and practice 'React a JavaScript library''react-native''API'
+- 🔭 I'm interested  (front-end)(back-end)(software-testing)(penetration-esting)(DevOps)
 - 🤔 I’m looking for help with teach for me(newbie).
 
 ## Hobby
@@ -45,9 +46,9 @@
 
 #### work with
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 

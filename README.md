@@ -45,6 +45,8 @@
 ![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,6 +64,7 @@
 ## 📈 Github Stat
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=phoptorn&count_private=true&theme=onedark&show_icons=true)](https://github.com/Phoptorn)
+[![Github Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Phoptorn}&theme=vue)]
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phoptorn&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/Phoptorn)
 

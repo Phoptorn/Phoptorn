@@ -1,7 +1,6 @@
 ### Hello World 🌏
 
 ![Banner](/image/github_banner.jpg)
-![Banner](/image/original-reactapp.png)
 ![Banner](/image/react-native-cat.png)
 
 - 🔭 I’m currently working on fibomotability.

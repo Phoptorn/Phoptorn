@@ -1,4 +1,4 @@
-### Hello World 🌏
+### Hi Dude 🌏
 
 ![Banner](/image/github_banner.jpg)
 ![Banner](/image/react-native-cat.png)

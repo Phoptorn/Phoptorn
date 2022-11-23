@@ -3,9 +3,9 @@
 ![Banner](/image/github_banner.jpg)
 ![Banner](/image/react-native-cat.png)
 
+- 🔭 I’m interested fibomotability(fibonacci)/Harmonics pattern/The Elliott Wave theory.
 - 🌱 I’m currently learning and practice ["React a JavaScript library", "React TypeScript", "react-native", "API", "DBMS"]
-- 🔭 I’m also currently working on fibomotability/Harmonics pattern/The Elliott Wave theory.
-- 🔭 I'm interested ["front-end", "back-end", "penetration-testing", "DevOps"] 
+- 🔭 And also interested ["front-end", "back-end", "penetration-testing", "DevOps"] 
 - 🤔 I’m looking for teach for me(newbie) and of cause I gonna do with myself first.
 
 ## Hobby

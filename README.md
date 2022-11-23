@@ -3,10 +3,10 @@
 ![Banner](/image/github_banner.jpg)
 ![Banner](/image/react-native-cat.png)
 
-- 🔭 I’m currently working on fibomotability.
-- 🌱 I’m currently learning and practice "React a JavaScript library" "react-native" "API"
-- 🔭 I'm interested  (front-end)(back-end)(software-testing)(penetration-esting)(DevOps)
-- 🤔 I’m looking for help with teach for me(newbie).
+- 🌱 I’m currently learning and practice ["React a JavaScript library", "React TypeScript", "react-native", "API", "DBMS"]
+- 🔭 I’m also currently working on fibomotability/Harmonics pattern/The Elliott Wave theory.
+- 🔭 I'm interested ["front-end", "back-end", "penetration-testing", "DevOps"] 
+- 🤔 I’m looking for teach for me(newbie) and of cause I gonna do with myself first.
 
 ## Hobby
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
